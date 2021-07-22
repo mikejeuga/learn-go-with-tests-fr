@@ -63,4 +63,4 @@ Même avec tout le talent du monde, il est peu probable de pouvoir composer de l
 
 ### Ce qui a marché pour moi
 
-Quand _j'_apprend un nouveau langage de programmation, je commence en général
+Quand _j'_ apprend un nouveau langage de programmation, je commence en général
