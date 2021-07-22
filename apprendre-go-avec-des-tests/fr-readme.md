@@ -29,7 +29,7 @@ Traductions:
 
 ## Contexte
 
-J'ai de l'experience quand il s'agit d'introduire Go à des équipes de développement. J'ai essayé plusieurs approches afin de transformer des équipes de curieux en équipes capable d'écrire de solides systèmes en Go.
+J'ai de l'experience quand il s'agit d'introduire Go à des équipes de développement. J'ai essayé plusieurs approches afin de transformer des équipes de curieux en équipes capables d'écrire de solides systèmes en Go.
 
 
 ### Ce qui n'a pas marché
