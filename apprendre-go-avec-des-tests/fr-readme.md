@@ -36,7 +36,7 @@ J'ai de l'experience quand il s'agit d'introduire Go à des équipes de dévelop
 
 #### Lire _Le_ livre
 
-Une approche que l'on essayé a été de prendre [Le Livre Bleu](https://www.amazon.fr/Go-Programming-Language-Alan-Donovan/dp/0134190440/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3P8A0ERS5T0VM&dchild=1&keywords=go+language&qid=1626710229&sprefix=Go+langu%2Caps%2C157&sr=8-1) et chaque semaine on abordait un nouveau chapitre avec les exercices. 
+Une approche que l'on a essayé, a été de prendre [Le Livre Bleu](https://www.amazon.fr/Go-Programming-Language-Alan-Donovan/dp/0134190440/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3P8A0ERS5T0VM&dchild=1&keywords=go+language&qid=1626710229&sprefix=Go+langu%2Caps%2C157&sr=8-1) et chaque semaine on abordait un nouveau chapitre avec les exercices. 
 
 Bien que certains pouvaient lire le chapitre N et faire les exercices, beaucoup ne faisaient pas ça.
 
