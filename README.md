@@ -16,7 +16,7 @@ Please feel free to review the French version of the pages and leave comments an
 You can also continue the translation with the following steps:
 
 ```
-$ clone the repository
+$ git clone https://github.com/mikejeuga/learn-go-with-tests-fr.git
 $ cd learn-go-with-tests-fr
 $ git clone https://github.com/quii/learn-go-with-tests.git 
 $ cd apprendre-go-avec-des-tests
