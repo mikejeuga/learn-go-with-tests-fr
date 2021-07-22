@@ -26,7 +26,7 @@ $ git checkout -b "your chapter"
 
 ## Engage
 
-Please engage with French speaking engineers, techincal writters, Go enthusiasts or anyone willing to help finish the translation.
+Please engage with French speaking engineers, techincal writers, Go enthusiasts or anyone willing to help finish the translation.
 
 You can reach out to [me](https://twitter.com/mikejeuga) or [Chris](https://twitter.com/quii) may you have any question.
 
