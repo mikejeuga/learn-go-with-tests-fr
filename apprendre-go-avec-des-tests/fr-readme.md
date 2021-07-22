@@ -8,7 +8,7 @@
 
 ## Me soutenir
 
-Je suis fier d'offrir cette resource gratuitement, mais si vous voulez exprimer un peu de gratitude...
+Je suis fier d'offrir cette resource gratuitement, mais si vous voulez exprimer votre support...
 
 - [Tweet moi @quii](https://twitter.com/quii)
 - [M'offrir un café](https://www.buymeacoffee.com/quii)
@@ -16,7 +16,7 @@ Je suis fier d'offrir cette resource gratuitement, mais si vous voulez exprimer 
 
 ## Apprendre le développement piloté par les tests ou TDD (Test Driven Development) en Go
 
-*Explorer le langage Go en écrivant des tests
+* Explorer le langage Go en écrivant des tests
 * **Comprendre les bases de la méthode TDD**. Go est un langage approprié pour apprendre la méthode TDD, parce que le langage est relativement simple et le testing est intégré.
 *  Être confiant que vous pourrez commencer à écrire des systèmes robustes et bien testés en Go.
 
@@ -63,3 +63,4 @@ Même avec tout le talent du monde, il est peu probable de pouvoir composer de l
 
 ### Ce qui a marché pour moi
 
+Quand _j'_apprend un nouveau langage de programmation, je commence en général
