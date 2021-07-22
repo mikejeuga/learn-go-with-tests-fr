@@ -1,6 +1,6 @@
 # Learn-go-wtih-tests-fr [](https://media.giphy.com/media/jBDkwmIgmihgc/giphy.gif)
 
-This repository is the base for the translation in French of the Chris James' book [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
+This repository is the base for the translation in French of Chris James' book [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
 
 ## Why
 
@@ -15,13 +15,13 @@ Please feel free to review the French version of the pages and leave comments an
 
 You can also continue the translation with the following steps:
 
-'''
+```
 $ clone the repository
 $ cd learn-go-with-tests-fr
 $ git clone https://github.com/quii/learn-go-with-tests.git 
 $ cd apprendre-go-avec-des-tests
 $ git checkout -b "your chapter"
-'''
+```
 
 ## Engage
 
