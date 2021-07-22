@@ -54,7 +54,7 @@ A la fin cela rend l'apprentissage _non structuré_ et _ad hoc_.
 
 De loin la méthode la plus efficace a été de progressivement aborder les fondamentaux du langage en utilisant [go by example](https://gobyexample.com/), de les explorer avec des exemples et en discuter en groupe. C'estr une approche beaucoup plus interactive que "lire le chapitre N et faire les exos".
 
-Au fur et à mesure l'équipe a obtenu de solide fondations de la _grammaire_ du langage ce qui a permis de commencer ecrire des systèmes entiers.
+Au fur et à mesure l'équipe a obtenu de solides fondations de la _grammaire_ du langage ce qui a permis de commencer ecrire des systèmes entiers.
 
 Pour moi c'est un peu l'équivalent de répéter les gammes quand on apprend la guitare.
 
