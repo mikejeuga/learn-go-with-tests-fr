@@ -42,7 +42,7 @@ Bien que certains pouvaient lire le chapitre N et faire les exercices, beaucoup 
 
 #### Faire des katas
 
-Les Katas sont cool mais en général, les champs d'application sont limités pour apprendre un langage. Il est peu probable d'utiliser les goroutines pour résoudre un kata.
+Les Katas sont cool mais en général, les champs d'application sont limités pour apprendre un langage. Il est peu probable d'utiliser les goroutines pour résoudre un kata par exemple.
 
 Un autre problème apparaît quand le niveau d'enthousiame varie.
 Certains apprennent le langage plus en profondeur et parfois finissent par embrouiller d'autres en introduisant des fonctionalités avancées aux personnes moins familières avec le langage.
