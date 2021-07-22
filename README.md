@@ -8,6 +8,7 @@ This repository is the base for the translation in French of Chris James' book [
 * Not all French speaking developers have the patience or sometimes the brain energy to read a technical book in another language. 
 * The hope that it pushes TDD and Go further in French speaking regions of the globe.
 * It is a fun exercise.
+* There are translation in Chinese, Portuguese and other language so why not en Français.
 
 ## How to participate
 
@@ -32,7 +33,7 @@ You can reach out to [me](https://twitter.com/mikejeuga) or [Chris](https://twit
 
 ## Thank you
 
-First many thanks to [Chris](https://github.com/quii/) for sharing his knowledge through this book.
+Many many thanks to [Chris](https://github.com/quii/) for sharing his knowledge through this book.
 
 Merci beaucoup all for your participation and support on this project.
 
