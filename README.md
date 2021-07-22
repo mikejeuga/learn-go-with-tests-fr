@@ -1,4 +1,4 @@
-# Learn-go-wtih-tests-fr [](https://media.giphy.com/media/jBDkwmIgmihgc/giphy.gif)
+# Learn-go-wtih-tests-fr <img src="https://media.giphy.com/media/jBDkwmIgmihgc/giphy.gif" width="40" height="40" />
 
 This repository is the base for the translation in French of Chris James' book [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
 
